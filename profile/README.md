@@ -1,5 +1,5 @@
 <h1 align="center"> ٱلسَّلَامُ عَلَيْكُمْ || Hi 👋 || স্বাগতম </h1>
-<img src="https://github.com/DEPT-GUB-CSE/.github/blob/main/canva-photo-editor%20(1).png?raw=true" alt="PROJECT ⤞ Warlock">
+<img align="center" src="https://github.com/DEPT-GUB-CSE/.github/blob/main/canva-photo-editor%20(1).png?raw=true" alt="PROJECT ⤞ Warlock">
 <h3 align="center"প্রজেক্ট Warlock হচ্ছে ভার্সিটির সিলেবাসকে কেন্দ্র করে রিসোর্স ভিত্তিক ওপেন সোর্স একটি প্রজেক্ট।
 </h3>
 - 🌱  **প্রজেক্টটির উদেশ্য**
